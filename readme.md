@@ -1,4 +1,4 @@
-# Git Commands and General Bash Commands
+# Git Commands and General Bash Commands Guide
 
 ## git clone *folderName*
 
